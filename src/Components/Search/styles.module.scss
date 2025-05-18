@@ -1,0 +1,16 @@
+.search{
+    position: relative;
+    .searchIcon{
+        position: absolute;
+        left: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    &__text{
+        
+        position: absolute;
+        right: 16px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}

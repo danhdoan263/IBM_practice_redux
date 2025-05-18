@@ -1,0 +1,11 @@
+@use '../../../styles/global.module.scss' as *;
+.textCircle{
+    width: fit-content;
+    padding: 16px 23px;
+    border-radius: 22px;
+    background-color: $primary-color;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
