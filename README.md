@@ -1,5 +1,5 @@
 # Plants Store
-
+https://danhdoan263.github.io/ibm-practice-redux
 A modern e-commerce website for plants built with React, Redux Toolkit, and Tailwind CSS.
 
 ## Features

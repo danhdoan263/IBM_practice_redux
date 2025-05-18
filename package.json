@@ -1,10 +1,13 @@
 {
+  "homepage": "https://danhdoan263.github.io/ibm-practice-redux",
   "name": "ibm-practice-redux",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "preDeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
