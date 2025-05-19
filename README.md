@@ -23,30 +23,26 @@ A modern e-commerce website for plants built with React, Redux Toolkit, and Tail
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
+- yarn
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/plants-store.git
+git clone https://github.com/danhdoan263/IBM_practice_redux.git
 ```
 
 2. Install dependencies:
 ```bash
-npm install
-# or
 yarn install
 ```
 
 3. Start the development server:
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [http://localhost:3000/IBM_practice_redux/] in your browser.
 
 ## Project Structure
 
