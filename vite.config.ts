@@ -19,5 +19,6 @@ export default defineConfig({
       "@assets": path.resolve(__dirname,"src/assets"),
       "@template": path.resolve(__dirname,"src/Template"),
     }
-  }
+  },
+  base:'/IBM_practice_redux'
 })
