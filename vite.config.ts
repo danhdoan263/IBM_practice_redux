@@ -10,6 +10,7 @@ export default defineConfig({
     port:3000,
     open:true
   },
+  base: '/IBM_practice_redux/',
   resolve:{
     alias:{
       "@": path.resolve(__dirname,"src"),
@@ -19,6 +20,5 @@ export default defineConfig({
       "@assets": path.resolve(__dirname,"src/assets"),
       "@template": path.resolve(__dirname,"src/Template"),
     }
-  },
-  base:'/IBM_practice_redux'
+  }
 })

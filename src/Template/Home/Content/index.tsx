@@ -23,12 +23,11 @@ const Content = () => {
       </div>
       <div className='mt-[50px] mb-[100px]'>
         <div className='text-[48px] font-bold'>
-          New
-          Collection
+          DanhDoan-GreenStore
         </div>
         <div className='text-[16px] '>
           Summer
-          2024
+          2025
         </div>
       </div>
       <div className={styles.productsContainer}>
